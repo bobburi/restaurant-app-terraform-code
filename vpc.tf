@@ -5,3 +5,5 @@ resource "google_compute_network" "gcp-vpc" {
   
 }
 
+
+
